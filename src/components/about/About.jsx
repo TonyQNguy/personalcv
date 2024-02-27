@@ -55,7 +55,7 @@ const About = () => {
 
             </div>
             <p>
-            Hello! I'm Tony Nguyen, a Computer Science major with a Business Minor at The University of Georgia, on track to graduate in May 2025. 
+            Hello! I'm Tony Nguyen, a Computer Science major with a Business minor at he University of Georgia, on track to graduate in May 2025. 
             I'm on the lookout for internships, co-ops, and full-time opportunities to dive into the dynamic world of technology.
             My passion lies in transforming ideas into reality through code. I've actively participated in Hackathons, 
             where I've crafted applications using technologies like <b> React, Node.js, HTML, CSS, JavaScript, Flutter, and Dart </b>. On the backend, 
