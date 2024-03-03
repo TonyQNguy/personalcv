@@ -55,7 +55,7 @@ const Myprojects = () => {
                 <img src={IMG3} alt="" />
             </div>
             <h3>StyleCast</h3>
-            <small className='text-light'> ReactJS | HTML | CSS | JavaScript </small>
+            <small className='text-light'> ReactJS | HTML | CSS | JavaScript | MongoDB </small>
             <div className="portfolio__item-cta">
               <a href="https://github.com/TonyQNguy/stylecast" target="_blank" rel='noreferrer' className='btn'>Github</a>
             </div>

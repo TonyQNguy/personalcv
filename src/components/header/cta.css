@@ -1,0 +1,9 @@
+a {
+    //color: var(--color-primary);
+    color: var(--color-white);
+    transition: var(--transition);
+}
+
+.btn:hover {
+    background: rgba(0, 0, 0, 0.4);
+}

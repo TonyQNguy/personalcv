@@ -1,4 +1,5 @@
 import React from 'react'
+import './cta.css'
 import CV from '../../assets/TonyNguyenResume.pdf'
 
 const CTA = () => {
@@ -8,7 +9,7 @@ const CTA = () => {
     <div className="cta">
 
         <a href={CV} download className='btn'>Download CV</a>
-        <a href="#contacts" className='btn btn-primary'>Contact Me</a>
+        <a href="#contacts" className='btn'>Contact Me</a>
     </div>
   )
 }

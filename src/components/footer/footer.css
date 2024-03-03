@@ -51,9 +51,10 @@ footer a{
 
 .footer__socials a:hover{
 
-    background: transparent;
+    //background: transparent;
     color: var(--color-bg);
     border-color: var(--color-bg);
+    background: rgba(0, 0, 0, 0.4);
 }
 
 .footer__copyright{
