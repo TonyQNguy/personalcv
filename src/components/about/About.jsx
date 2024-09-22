@@ -46,7 +46,7 @@ const About = () => {
                     <ul>
                       <li>Web Applications</li>
                       <li>Full-stack</li>
-                      <li>Information Technology</li>
+                      <li>IT</li>
                       <li>Business</li>
                     </ul>
                   </small>
@@ -57,7 +57,7 @@ const About = () => {
             </div>
             <p>
             Hello! I'm Tony Nguyen, a Computer Science major with a Business minor at the University of Georgia, on track to graduate in May 2025. 
-            Currently, I am a Information Technology Specialist at Total Technology Solutions Inc which is a MSP for the Athens Orthopedic Clinic.
+            Currently, I am a <b>Information Technology Specialist</b> at Total Technology Solutions Inc, which is a MSP for the Athens Orthopedic Clinic.
             My passion lies in transforming ideas into reality through code. I've actively participated in Hackathons, 
             where I've crafted applications using technologies like <b> React, Node.js, HTML, CSS, JavaScript, Flutter, and Dart </b>. On the backend, 
             I've worked with <b>Python, MongoDB, and MySQL,</b> contributing to well-rounded, full-stack development    
